@@ -1,7 +1,7 @@
 {
   "name": "Event Booking Pro",
   "version": "3.97",
-  "dashboard-news": [
+  "dashboardNews": [
     {
       "id": 1, 
       "title": "WPML now supported", 
