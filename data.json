@@ -5,7 +5,7 @@
     {
       "id": 1, 
       "title": "WPML now supported", 
-      "desc": "The plugin now support WPML, please refer to <a href=\"http://iplusstd.com/item/eventBookingPro/example/multiple-languages-supported-with-wpml/\">this page</a> for more information."
+      "body": "The plugin now support WPML, please refer to <a href=\"http://iplusstd.com/item/eventBookingPro/example/multiple-languages-supported-with-wpml/\">this page</a> for more information."
     }
   ]
 }
